@@ -1,6 +1,4 @@
-Sure! Here's a README template that includes a brief description of the Python Weather CLI code, along with the other sections. You can directly copy-paste this into your `README.md` file:
 
-```markdown
 # Python Weather CLI
 
 A command-line application to check the weather of a specified location using Python and the OpenWeatherMap API.
@@ -9,12 +7,20 @@ A command-line application to check the weather of a specified location using Py
 
 Python Weather CLI is a simple command-line application built with Python that allows users to check the weather of any location by providing its name or zip code. The app uses the OpenWeatherMap API to fetch real-time weather data and displays it in the terminal. It's a useful tool for quickly getting weather information without the need for a graphical user interface.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Key](#api-key)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Installation
 
 1. Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/python-weather-cli.git
+git clone https://github.com/KshitijK11/python-weather-cli.git
 ```
 
 2. Navigate to the project directory:
@@ -61,4 +67,4 @@ If you encounter any bugs or have suggestions for improvements, please create an
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Copy this entire template and paste it into your `README.md` file in your `python-weather-cli` repository. As mentioned before, remember to replace the placeholders such as `your-username` and update any other sections as needed. The description provided in the `Description` section gives a brief overview of the purpose and functionality of the Python Weather CLI code.
+Copy this entire template and paste it into your `README.md` file in your `python-weather-cli` repository. Don't forget to replace the placeholders such as `your-username` and update any other sections as needed. This comprehensive README will provide all the necessary information about your Python Weather CLI project to users and contributors.
